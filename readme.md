@@ -26,4 +26,4 @@
 
 
 ## Algorithms ![AlgorithmsPoints]
-- [Warmup](https://github.com/RyanFehr/HackerRank#warmup)
+- [Warmup](https://github.com/douglasjava/HackerRank#warmup)
