@@ -15,7 +15,7 @@
 </p>
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Language-Java-orange-Javascript-yellow.svg">
+	<img src="https://img.shields.io/badge/Language-Java/JavaScript-orange.svg">
 	<img src="https://img.shields.io/badge/Latest%20Update-06/24/2019-brightgreen.svg">
 </p>
 
@@ -26,4 +26,5 @@
 
 
 ## Algorithms ![AlgorithmsPoints]
-- [Warmup](https://github.com/douglasjava/HackerRank#warmup)
+- [Warmup](https://github.com/douglasjava/HackerRank/tree/master/src/main/java/com/study/hackerrank/algorithms/warmup)
+- [Introduction](https://github.com/douglasjava/HackerRank/tree/master/src/main/java/com/study/hackerrank/algorithms/introduction)
