@@ -14,8 +14,8 @@
 	If you are interested in helping or have a solution in a different language feel free to make a pull request.
 </p>
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-153-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Language-Java-orange.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Language-Java-orange-Javascript-yellow.svg">
 	<img src="https://img.shields.io/badge/Latest%20Update-06/24/2019-brightgreen.svg">
 </p>
 
