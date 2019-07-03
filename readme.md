@@ -25,7 +25,7 @@
 
 
 
-## Algorithms ![AlgorithmsPoints]
+## Algorithms 
 - [Warmup]
 	- [Java](https://github.com/douglasjava/HackerRank/tree/master/src/main/java/com/study/hackerrank/algorithms/warmup)
 	- [JavaScript](https://github.com/douglasjava/HackerRank/tree/master/hackerrank-javascript/Warmup)
